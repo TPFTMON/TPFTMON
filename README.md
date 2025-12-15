@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TPFTMON
 - 👀 I’m interested in coding, biotech, neurosciences, psychology
-- 🌱 I’m currently learning C and soon C++
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ...
 - ⚡ Fun fact: this fact is really fun
 
